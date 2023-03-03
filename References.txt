@@ -1,0 +1,53 @@
+Orange           = DB621E
+Yellow           =E3E650
+Black           =000000
+White    = FFFFFF
+Blue                     = 0F55A8
+Dark white= D9D9D9
+Red = FD0000
+Orange (diamond shape) = DB621E
+White (Diamond shape) = FFFFFF
+White (Radial shape) FFFFFF
+Orange radial  =DB621E
+Orange Diamond =DB621E 
+
+
+mobile view
+white = FFFFFF
+black=000000
+orange= DB621E
+yellow =E3E650
+dark white=D9D9D9
+red =FD0000
+blue=0F55A8
+
+
+
+
+Photos from pxhere.com
+https://pxhere.com/en/photo/609299
+https://pxhere.com/en/photo/27414
+
+logo from canava
+https://www.canva.com/design/DAFV2K5rdQo/ZzQrtVbeiGz73PDgOg8-qw/edit#
+
+content
+https://chat.openai.com/chat>
+
+
+
+Homebutton: https://www.flaticon.com/free-icon/home_1946488?term=home+button&page=1&position=1&origin=search&related_id=1946488
+
+Menu icon: https://www.flaticon.com/free-icon/menu_1046849?term=menu&page=1&position=11&origin=search&related_id=1046849
+
+About us : https://www.flaticon.com/free-icon/group-chat_2352167?term=about+us&page=1&position=41&origin=search&related_id=2352167
+Our service : https://www.flaticon.com/free-icon/customer_686317?term=service&page=1&position=11&origin=search&related_id=686317
+
+SPA : https://www.flaticon.com/free-sticker/massage_8686087?term=spa&page=1&position=3&origin=search&related_id=8686087
+Cook tranning : https://www.flaticon.com/free-icon/cooking_1830839?term=cook&page=1&position=1&origin=search&related_id=1830839
+Special event: https://www.flaticon.com/free-icon/event_2558944?term=events&page=1&position=16&origin=search&related_id=2558944
+
+
+
+a.
+
